@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #38f07e;
+}
+
+.container {
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+  height: 150px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select {
+  width: 50%;
+  padding: 5px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  background-color: orange;
+}
+
+label {
+  font-size: 13px;
+  font-family : Poppins;
+  font-weight: 800;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: #f3ff4d;
+  
+}
+
+/* Existing CSS styles */
+
+.social-icons {
+  position: fixed;
+  top: 170px;
+  left: 50%;
+  transform: translateX(-50%);
+  align-items: center;
+}
+
+.social-icons .icon {
+  display: inline-block;
+  margin: 0 5px;
+  font-size: 24px;
+  color: #333; /* Change color as needed */
+  transition: color 0.3s;
+}
+
+.social-icons .icon:hover {
+  color: #ff00dd; /* Change color on hover as needed */
+}
+
+h2 {
+  position: fixed;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
