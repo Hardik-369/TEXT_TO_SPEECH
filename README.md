@@ -49,6 +49,4 @@ If you wish to contribute or modify the project:
   - [YouTube](https://www.youtube.com/channel/UCLz48CGv9NzM3mI5KKi4TUQ)
   - [GitHub](https://github.com/Hardik-369)
 
-## License
 
-[License information here, if applicable]
